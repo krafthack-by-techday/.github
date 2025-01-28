@@ -1,2 +1,2 @@
 # Welcome to KraftHack by #Techday
-This GitHub org are designed to host code from a hackathon arranged by #Techday - Stanett. 
+Code and content from Krafthack by [#Techday](https://www.statnett.no/om-statnett/moter-og-arrangementer/techday/). 
